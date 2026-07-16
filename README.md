@@ -1,4 +1,20 @@
-# SENTINEL IDS v3 — AI Intrusion Detection System
+# Login Anomaly Detection System (SENTINEL IDS)
+
+An AI-powered Intrusion Detection System (IDS) that detects suspicious login attempts using custom anomaly detection algorithms and a honeypot portal.
+
+## 🌐 Live Demo
+
+**Website:** https://login-anomaly-detection-system.onrender.com
+
+## Features
+
+- Isolation Forest-based anomaly detection
+- DBSCAN clustering
+- Local Outlier Factor (LOF)
+- Honeypot login portal
+- Interactive analytics dashboard
+- Browser snapshot capture
+- Threat monitoring
 
 ## Quick Start (VSCode)
 
