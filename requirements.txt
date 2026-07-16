@@ -1,8 +1,7 @@
-flask>=3.0.0
-
-# Recommended — IoT snapshot placeholders:
+Flask>=3.0.0
+gunicorn>=23.0.0
 Pillow>=10.0.0
 
-# Optional extras:
-# opencv-python   # real webcam capture
-# pyttsx3         # voice alerts
+# Optional
+# opencv-python
+# pyttsx3
